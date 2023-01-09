@@ -7,7 +7,8 @@ apt install bspwm
 apt install sxhkd
 
 git clone https://github.com/adi1090x/polybar-themes
-
+mkdir ~/.uwu
+mv 12.png ~/.uwu
 mkdir ~/.config/
 mv bspwm ~/.config/
 mv sxhkd ~/.config
